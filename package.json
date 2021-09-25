@@ -1,0 +1,21 @@
+{
+  "name": "odev-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack",
+    "lint": "./node_modules/.bin/eslint"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.26.0",
+    "webpack": "^5.54.0",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {}
+}
